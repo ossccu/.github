@@ -2,7 +2,7 @@
 
 **About:** OSSCCU is a student-run community at City University, Bangladesh, dedicated to **open-source software development and collaboration**. It provides a **supportive learning environment** where students learn modern software practices, work on real-world projects, and contribute to global open-source efforts. The community bridges academic learning and industry practice by **encouraging active participation, knowledge sharing, and inclusive teamwork**. 
 
-In meetings and workshops, OSSCCU members gather to discuss projects, mentor each other, and organize events. This collaborative atmosphere reflects a core open-source ethos: **transparent communication and shared responsibility**【22†L42-L43】【20†L128-L137】. By clearly defining roles and fostering a respectful environment, OSSCCU helps even newcomers contribute effectively (mirroring the role definitions and onboarding best practices in open-source projects【22†L111-L119】【20†L128-L137】).
+In meetings and workshops, OSSCCU members gather to discuss projects, mentor each other, and organize events. This collaborative atmosphere reflects a core open-source ethos: **transparent communication and shared responsibility** [1][2]. By clearly defining roles and fostering a respectful environment, OSSCCU helps even newcomers contribute effectively (mirroring the role definitions and onboarding best practices in open-source projects [3][2]).
 
 ## Vision
 
@@ -21,7 +21,7 @@ In meetings and workshops, OSSCCU members gather to discuss projects, mentor eac
 ## Objectives
 
 - **Promote open-source development:** Teach students how to use platforms like GitHub and contribute to repositories.  
-- **Build real projects:** Organize teams to develop community software projects, with roles like maintainers, reviewers, and documenters【22†L111-L119】【15†L455-L463】.  
+- **Build real projects:** Organize teams to develop community software projects, with roles like maintainers, reviewers, and documenters [3][4].  
 - **Technical training:** Offer classes on algorithms, coding skills, DevOps tools (CI/CD), and documentation.  
 - **Knowledge sharing:** Encourage senior members to mentor juniors and involve alumni in guest lectures.  
 - **Community outreach:** Engage local schools with coding bootcamps and open-source awareness programs.  
@@ -36,7 +36,7 @@ In meetings and workshops, OSSCCU members gather to discuss projects, mentor eac
 ### Categories
 
 - **Core Members:** Actively organize activities, mentor others, or lead projects.  
-- **Contributors:** Students contributing code, documentation, or other improvements to OSSCCU projects. (Analogous to “contributors” in open-source communities【15†L455-L463】.)  
+- **Contributors:** Students contributing code, documentation, or other improvements to OSSCCU projects. (Analogous to “contributors” in open-source communities [4].)  
 - **Beginner Members:** Students learning fundamentals; they assist in simpler tasks and attend training.  
 - **Alumni Mentors:** Graduates who provide guidance, industry insights, and networking support.  
 - **Faculty Advisor:** A designated faculty member provides academic oversight and continuity.
@@ -46,7 +46,7 @@ In meetings and workshops, OSSCCU members gather to discuss projects, mentor eac
 All members agree to:  
 - Uphold OSSCCU’s **code of conduct** (respectful communication, inclusivity, and honesty).  
 - Attend meetings and contribute positively to projects and events.  
-- Follow the **governance roles and procedures** defined by this constitution【22†L42-L43】【22†L111-L119】.  
+- Follow the **governance roles and procedures** defined by this constitution [1][3].  
 - Actively share knowledge (e.g., by writing documentation, giving tutorials, or reviewing peers’ code).
 
 ## Organizational Structure
@@ -61,10 +61,10 @@ OSSCCU is managed by an **executive committee** elected or appointed for a one-y
 - **Assistant Organizing Secretaries (Batch-wise, ≥1 per year):** One representative from each academic batch. Promote OSSCCU activities in their year group, relay information, and help run events.
 
 In addition to the committee, OSSCCU acknowledges **project-specific roles** similar to open-source communities:  
-- **Project Maintainers:** Core students who oversee specific software projects. They review and merge code, set technical direction, and ensure project health【15†L455-L463】【22†L111-L119】. Typically these are experienced Core Members.  
+- **Project Maintainers:** Core students who oversee specific software projects. They review and merge code, set technical direction, and ensure project health [4][3]. Typically these are experienced Core Members.  
 - **Reviewers/Committers:** Trusted contributors with merge rights. They review pull requests for quality.  
-- **Documentation Maintainer:** A member (or members) responsible for keeping project documentation and tutorials up to date. (Open-source projects often have dedicated documentation leads【22†L111-L119】.)  
-- **Community Managers:** Often the Member Secretary or Joint Secretaries, ensuring discussions (online or meetings) stay constructive, moderating forums, and helping onboard new contributors【20†L128-L137】【20†L151-L158】.  
+- **Documentation Maintainer:** A member (or members) responsible for keeping project documentation and tutorials up to date. (Open-source projects often have dedicated documentation leads [3].)  
+- **Community Managers:** Often the Member Secretary or Joint Secretaries, ensuring discussions (online or meetings) stay constructive, moderating forums, and helping onboard new contributors [2][5].  
 - **Release Manager:** Coordinates project releases (labels versions, updates changelogs).  
 - **QA/Test Coordinators:** Members who organize testing sessions or automated tests to ensure project quality.  
 
@@ -96,11 +96,11 @@ Community events include hackathons, collaborative coding days, and participatio
 
 OSSCCU maintains an official GitHub organization for projects. Community projects follow open-source workflows:  
 - Open issue tracking for bugs/features.  
-- Contributors submit Pull Requests; **Committees of Reviewers/Committers** review and merge code【22†L111-L119】【15†L455-L463】.  
-- Documentation and examples are treated as first-class deliverables. A **Documentation Maintainer** ensures READMEs and tutorials exist for each project (critical for onboarding new contributors【22†L111-L119】).  
+- Contributors submit Pull Requests; **Committees of Reviewers/Committers** review and merge code [3][4].  
+- Documentation and examples are treated as first-class deliverables. A **Documentation Maintainer** ensures READMEs and tutorials exist for each project (critical for onboarding new contributors [3]).  
 - A **Code of Conduct** (e.g., Contributor Covenant) is enforced for all public communications.  
 
-New members are encouraged to start by contributing small fixes or documentation (reflecting the “1% maintainers, 9% active contributors, 90% users” model【15†L455-L463】). OSSCCU fosters this inclusive “do-ocracy” approach: members gain influence by doing valuable work, yet committee approval is required for major roles to ensure governance clarity【22†L111-L119】【18†L319-L327】.
+New members are encouraged to start by contributing small fixes or documentation (reflecting the “1% maintainers, 9% active contributors, 90% users” model [4]). OSSCCU fosters this inclusive “do-ocracy” approach: members gain influence by doing valuable work, yet committee approval is required for major roles to ensure governance clarity [3][6].
 
 ## Elections and Appointments
 
@@ -109,15 +109,15 @@ New members are encouraged to start by contributing small fixes or documentation
   2. Internal elections among active members.  
   3. Committee recommendation and approval by the Faculty Advisor.  
 
-- **Project Role Assignments:** Maintainers and Committers for each project are selected by the Convener and Joint Conveners based on contributions and experience, with consensus from senior members (reflecting meritocratic open-source practice【22†L111-L119】【15†L455-L463】).  
+- **Project Role Assignments:** Maintainers and Committers for each project are selected by the Convener and Joint Conveners based on contributions and experience, with consensus from senior members (reflecting meritocratic open-source practice [3][4]).  
 
 - **Term:** Typically one academic year. Members can serve multiple terms if re-elected or re-appointed.  
 
 ## Code of Conduct
 
 OSSCCU expects all participants to abide by principles of **respect, inclusivity, and integrity**. The code of conduct covers:  
-- *Respectful Communication:* All ideas are welcomed; harassment or discrimination is forbidden. (Open-source communities emphasize a positive environment【20†L128-L137】.)  
-- *Ethical Contribution:* Credit original authors, avoid plagiarism, and contribute code/documentation that is useful to all, not just oneself【15†L455-L463】.  
+- *Respectful Communication:* All ideas are welcomed; harassment or discrimination is forbidden. (Open-source communities emphasize a positive environment [2].)  
+- *Ethical Contribution:* Credit original authors, avoid plagiarism, and contribute code/documentation that is useful to all, not just oneself [4].  
 - *Responsibility:* Anyone can file issues or suggest changes, but major design decisions should involve those with appropriate roles.  
 
 Violations (e.g., harassment or IP infringement) are reviewed by the Convener and Faculty Advisor and may lead to suspension of membership following a fair process.
@@ -127,7 +127,7 @@ Violations (e.g., harassment or IP infringement) are reviewed by the Convener an
 To ensure sustainability:  
 - **Event Records:** All events, workshops, and decisions must be documented (minutes, slides, code).  
 - **Project Repositories:** Code and docs are kept in public repos. Transition guides are maintained for outgoing committee members.  
-- **Mentorship:** Core members and alumni mentor newcomers. The knowledge transfer practice aligns with open-source values of sharing and onboarding【20†L128-L137】【22†L111-L119】.
+- **Mentorship:** Core members and alumni mentor newcomers. The knowledge transfer practice aligns with open-source values of sharing and onboarding [2][3].
 
 ## Collaboration with Other Groups
 
@@ -158,7 +158,7 @@ Upon dissolution, all documentation, code, and resources are handed over to the 
 
 ---
 
-*This draft constitution establishes OSSCCU’s purpose, structure, and practices. It is modeled on open-source governance principles (clear role definitions, collaborative decision-making【22†L111-L119】【15†L455-L463】) and City University’s standard club format. All sections should be reviewed by current members, alumni, and the faculty advisor before final approval.*  
+*This draft constitution establishes OSSCCU’s purpose, structure, and practices. It is modeled on open-source governance principles (clear role definitions, collaborative decision-making [3][4]) and City University’s standard club format. All sections should be reviewed by current members, alumni, and the faculty advisor before final approval.*  
 
 ## References
 
